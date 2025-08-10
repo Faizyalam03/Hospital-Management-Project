@@ -22,10 +22,4 @@ For more feature please see the E-R Diagram of the project
 
 
 
-
 ##### To see the Screenshots of project go to the Screenshots folder of the repository
-
-
-The other two contributers of project are : **Sumit Kumar and Vivek Singh Rana**
-
-
